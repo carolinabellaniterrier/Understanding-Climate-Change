@@ -4,4 +4,4 @@ The project is an undertaking of a team project for the completion of BA780(Intr
 
 To view the plotley and bokeh visualizations paste the github url in the following website. https://nbviewer.org/
 
-Github URL: https://github.com/VibhasGoel1/BA780/blob/main/A9_Understanding_Effects_of_Climate_Change.ipynb
+Github URL: https://github.com/carolinabellaniterrier/Understanding-Climate-Change/blob/main/A9_Understanding_Effects_of_Climate_Change%20(1).ipynb
